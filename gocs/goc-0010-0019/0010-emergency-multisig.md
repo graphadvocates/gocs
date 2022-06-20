@@ -1,2 +1,2 @@
-# 0010 - Emnergency Multisig
+# 0010 - Emergency Multisig
 
