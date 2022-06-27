@@ -17,7 +17,7 @@
 
 **Last Version Date:** 06/24/2022
 
-**Last Version Author(s):** Estie Woo (ewoo0886@gmail.com.com)
+**Last Version Author(s):** Esther Woo (ewoo0886@gmail.com.com)
 
 <br>
 
