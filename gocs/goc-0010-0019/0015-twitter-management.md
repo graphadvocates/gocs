@@ -33,14 +33,14 @@ This GOC is intended to describe the tasks involved in managing the Graph Advoca
 <br>
 
 ## 3. Motivation
-Twitter is a vital tool for enhancing awareness of the DAO and its mission. Management of the Twitter account will be conducted in a decentralized method that enables multiple DAO members to engage in the process. It is therefore necessary to specify rules of engagement with sufficient enough details in order to deliver a consistent Twitter messaging output that is in line with the DAO’s mission.
+Twitter is a vital tool for enhancing awareness of the DAO and its mission to grow the Graph and web3 ecosystem as described in the Charter. Management of the Twitter account will be conducted in a decentralized method that enables multiple DAO members to engage in the process. It is therefore necessary to specify rules of engagement with sufficient enough details in order to deliver a consistent Twitter messaging output that is in line with the DAO’s mission.
 
 <br>
 
 ## 4. Specification
 
 ### 4.1. Scope of Engagement
-The Graph AdvocatesDAO’s mission is to grow The Graph and web3 ecosystem. Tweets sent from the DAO Twitter account should therefore aim to support fulfilling that mission and not deviate into unrelated topics. That also extends to questions such as which other accounts the DAO Twitter account should follow. 
+Tweets sent from the DAO Twitter account should aim to support fulfilling the DAO's mission and not deviate into unrelated topics. That also extends to questions such as which other accounts the DAO Twitter account should follow. 
 
 ### 4.1.1. Content
 The following is a list of content types that the DAO should adhere to tweeting about:
@@ -54,8 +54,10 @@ The following is a list of content types that the DAO should adhere to tweeting 
 ### 4.1.2. Account Following
 The Graph AdvocatesDAO strives to be a spotlight in the Graph ecosystem, which is also reflected by the accounts it follows. The following is a guide of the type of accounts that are generally favored to be followed:
 * Graph AdvocatesDAO members
+* Graph Core Developer teams
 * Grantees
 * Graph Advocates
+* Graph regional and ecosystem communities
 * Reputable Graph community members
 * Web3 protocols
 * Web3 icons
@@ -82,4 +84,5 @@ Tweet volume and sequencing intervals are important elements to consider. Too fe
 
 ### 5.1. Links
 * [Graph AdvocatesDAO Twitter Account](https://twitter.com/GraphAdvocates)
-* [DAO Twitter Workflow & Tweet Guideline](https://app.clickup.com/37437860/v/dc/13pgd4-2802/13pgd4-1842)
+* [Graph AdvocatesDAO Twitter Workflow & Tweet Guideline](https://app.clickup.com/37437860/v/dc/13pgd4-2802/13pgd4-1842)
+* [Graph AdvocatesDAO Docs (includes link to Charter)](https://docs.graphadvocates.com/)
