@@ -2,20 +2,20 @@
 
 <br>
 
-## 1. GOC Info
+## 1. Meta Data
 **Original Author(s)**: Oliver Zerhusen (ozerhusen@gmail.com)
 
 **Creation Date:** 05/08/2022
 
-**Stage:** Candidate
+**Stage:** Live
 
-**Live Date:**
+**Live Date:** 06/27/2022
 
 <br>
 
-**Version:** 1.00
+**Last Version:** 1.01
 
-**Last Version Date:** 05/08/2022
+**Last Version Date:** 06/27/2022
 
 **Last Version Author(s):** Oliver Zerhusen (ozerhusen@gmail.com)
 
@@ -24,6 +24,14 @@
 **Organization:** DAO
 
 **Tag(s):** Coordinape, DAOHaus, Discord, Discourse, Financials, Governance, Procedure
+
+<br>
+
+**Version History:**
+| Version | Commit-Hash | Comment 
+| - | - | - |
+| 1.00 | 4e53794200ffa1e6bd3c2d0027ae317f1b9f5291 | Current DAO-approved version
+| 1.01 | | Meta Data update
 
 <br>
 
@@ -99,4 +107,4 @@ At the end of a calendar year, the DAO shall also produce an annual budget for t
 ### 5.1. Links
 * [Coordinape](https://coordinape.com/)
 * [Graph AdvocatesDAO Financials](https://docs.google.com/spreadsheets/d/1cp8PA9ihOQJvCzE8NfYNV1N5fGo1QN2LlXt0snlGzYI/edit#gid=691314764)
-* Committee Setup Checklist (to be developed)
+
