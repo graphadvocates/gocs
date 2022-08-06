@@ -2,7 +2,7 @@
 
 <br>
 
-## 1. GOC Info
+## 1. Meta Data
 **Original Author(s)**: *list of authors. Include full name or pseudonym. At least one author must have valid contact information provided*
 
 **Stage:** *The current stage of this GOC. Available values: Proposal, Draft, Candidate, Accepted, Live, Rejected, Retired*
@@ -13,7 +13,7 @@
 
 <br>
 
-**Version:** *Current version number. Updates made to sections Live Date, Organization, Tags and References do not require a full version update (+1 to the nearest full integer), but should rather be documented as minor version updates (+0.01) without the need for on-chain Signal Proposal, but rather be approved off-chain by Ops Committee*
+**Last Version:** *Current version number. Updates made to sections Live Date, Organization, Tags and References do not require a full version update (+1 to the nearest full integer), but should rather be documented as minor version updates (+0.01) without the need for on-chain Signal Proposal, but rather be approved off-chain by Ops Committee*
 
 **Last Version Date:** *Date when latest version went live and became operational*
 
@@ -24,6 +24,13 @@
 **Organization:** *List which part of the DAO organization is directly impacted by this GOC. Available values:  DAO (everyone impacted), Advocate Committee, Grant Committee, Ops Committee*
 
 **Tag(s):** *Select all key tags that apply to this GOC. Available values: Advocate Program, Community Grant Program, ClickUp, Coordinape, DAOHaus, Discord, Discourse, Email, Emergency Multisig, Financials, Forum, GitBook, Google, Governance, Guideline, JotForm, Procedure, Twitter, Website*
+
+<br>
+
+**Version History:**
+| Version | GitHub Commit-Hash | Comment
+| - | - | - |
+| | |
 
 <br>
 
