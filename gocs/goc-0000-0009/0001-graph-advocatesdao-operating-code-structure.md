@@ -2,7 +2,7 @@
 
 <br>
   
-## 1. GOC Info
+## 1. Meta Data
   
 * **Original Author(s)**: Oliver Zerhusen (ozerhusen@gmail.com)
 * **Creation Date:** 04/10/2022
@@ -11,7 +11,7 @@
   
 <br>
   
-* **Version:** 1.0
+* **Version:** 1.01
 * **Last Version Date:** 05/04/2022
 * **Last Version Author(s):** Oliver Zerhusen (ozerhusen@gmail.com)
 
@@ -19,6 +19,13 @@
 
 * **Organization:** DAO
 * **Tag(s):** Governance, Procedure
+
+<br>
+
+| Version | GitHub Commit-Hash | Comment |
+| - | - | - |
+| 1.00 | ac4623221684daee22df47cddb650765af506e43| Current DAO-approved version
+1.01 | | Updated Meta Data
 
 <br>
 
@@ -106,10 +113,4 @@ GOCs may be regularly updated with new information as necessary. A committee may
 ## 6. References
 
 ### 6.1. Relevant GOCs
-- GOC-0000 GOC Template
-
-### 6.2. Links
-None
-
-### 6.3. Attachments
-None
+- [GOC-0000 GOC Template](https://gocs.graphadvocates.com/gocs/goc-0000-0009/0000-goc-template)
