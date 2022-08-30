@@ -2,28 +2,29 @@
 
 <br>
 
-## 1. GOC Info
-**Original Author(s)**: Esther Woo (ewoo0886@gmail.com.com)
-
-**Creation Date:** 06/24/2022
-
-**Stage:** Candidate
-
-**Live Date:**
+## 1. Meta Info
+* **Original Author(s)**: Esther Woo (ewoo0886@gmail.com.com)
+* **Creation Date:** 06/24/2022
+* **Stage:** Live
+* **Live Date:** 07/25/2022
 
 <br>
 
-**Version:** 1.00
-
-**Last Version Date:** 06/24/2022
-
-**Last Version Author(s):** Esther Woo (ewoo0886@gmail.com.com)
+* **Version:** 1.01
+* **Last Version Date:** 07/25/2022
+* **Last Version Author(s):** Esther Woo (ewoo0886@gmail.com.com)
 
 <br>
 
-**Organization:** Ops Committee
+* **Organization:** Ops Committee
+* **Tag(s):** Twitter, Procedure, Guideline
 
-**Tag(s):** Twitter, Procedure, Guideline
+<br>
+
+| Version | GitHub Commit-Hash | Comment |
+| - | - | - |
+| 1.00 | da64df5564854f7f9d836b6776d379e4a0b51563| Current DAO-approved version
+1.01 | | Updated Meta Data
 
 <br>
 
