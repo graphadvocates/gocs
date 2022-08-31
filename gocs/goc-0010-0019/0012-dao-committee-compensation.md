@@ -1,6 +1,6 @@
 # 0012 - DAO Committee Compensation
 
-<b>
+<br>
 
 ## 1. Meta Data
 
