@@ -28,5 +28,7 @@
   * [0015 - Twitter Management](gocs/goc-0010-0019/0015-twitter-management.md)
   * [0016 - Email Management](gocs/goc-0010-0019/0016-email-management.md)
   * [0017 - DAO Committee Operators](gocs/goc-0010-0019/0017-dao-committee-operators.md)
+  * [0018 - Moderation Guidelines and Conflict Resolution Protocol](gocs/goc-0010-0019/0018-moderation-guidelines-and-conflict-resolution-protocol.md)
+  * [0019 - Language Support](gocs/goc-0010-0019/0019-language-support.md)
 * [GOC 0020 - 0029](gocs/goc-0020-0029/README.md)
   * [0020 - Governance Committee](gocs/goc-0020-0029/0020-governance-committee.md)
