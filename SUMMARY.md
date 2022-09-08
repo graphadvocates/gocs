@@ -20,7 +20,7 @@
   * [0007 - Committee Approval Authorities](gocs/goc-0000-0009/0007-committee-approval-authorities.md)
   * [0008 - DAO Funding](gocs/goc-0000-0009/0008-dao-funding.md)
 * [GOC 0010 - 0019](gocs/goc-0010-0019/README.md)
-  * [0010 - Emergency Multisig](gocs/goc-0010-0019/0010-emergency-multisig.md)
+  * [0010 - DAO Multisig](gocs/goc-0010-0019/0010-dao-multisig.md)
   * [0011 - Coordinape](gocs/goc-0010-0019/0011-coordinape.md)
   * [0012 - DAO Committee Compensation](gocs/goc-0010-0019/0012-dao-committee-compensation.md)
   * [0013 - Graph Advocates Program Application](gocs/goc-0010-0019/0013-graph-advocates-program-application.md)
