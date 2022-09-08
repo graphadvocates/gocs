@@ -1,2 +1,2 @@
-# 0010 - Emergency Multisig
+# 0010 - DAO Multisig
 
