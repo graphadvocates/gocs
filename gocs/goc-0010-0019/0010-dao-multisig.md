@@ -3,10 +3,15 @@
 **1\. Meta Info**
 =================
 **Original Author(s):** _Christina Mills -_ [_bombayonchain@gmail.com_](mailto:bombayonchain@gmail.com)_,_ Oliver Zerhusen ([ozerhusen@gmail.com](mailto:ozerhusen@gmail.com))_, Slimchance_
+
 **Stage:** Candidate
+
 **Creation Date:** _2022-07-01_
+
 **Last Modified Date:** _2022-08-29_
+
 **Target Live Date:** 2022-09-23
+
 **Live Date:** 
 
 **Last Version:**
