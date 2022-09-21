@@ -6,14 +6,14 @@
 
 * **Original Author(s):** Oliver Zerhusen (ozerhusen@gmail.com), Kyle LaRue (kylelarue00@gmail.com)
 * **Creation Date:** 08/11/2022
-* **Stage:** Candidate
-* **Live Date:** 
+* **Stage:** Live
+* **Live Date:** 09/15/2022
 
 <br>
 
-* **Last Version:** 
-* **Last Version Date:**
-* **Last Version Author(s):**
+* **Last Version:** 1.00
+* **Last Version Date:** 09/15/2022
+* **Last Version Author(s):** Oliver Zerhusen (ozerhusen@gmail.com), Kyle LaRue (kylelarue00@gmail.com) 
 
 <br>
 
@@ -24,7 +24,7 @@
 
 Version| Github Commit-Hash | Comment
   | - | - | - |
-Not yet live
+1.00 | efa8a659d6b66719876b5e586a64fad013521f73 | Initial release (current approved version)
 
 <br>
 
